@@ -1,0 +1,23 @@
+{
+  "name": "react-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jackrobert0220 <jackrobert0220@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.7",
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.20.0",
+    "cloudinary": "^1.29.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "multer": "^1.4.4",
+    "socket.io": "^4.4.1"
+  }
+}
